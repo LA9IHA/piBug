@@ -1,5 +1,6 @@
 # LA9IHA piBug
 <a href="https://github.com/LA9IHA/piBug/edit/main/READMEen.md">English here!</a>
+
 piBug er en platform for eksperimentering av radioamatører som ønsker å lære seg litt programmering i Raspberry Pi Pico. Dette er en liten mikroprosessor med mye kraft som kan programmeres i Python eller C.
 
 ## Referanser
