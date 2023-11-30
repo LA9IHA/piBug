@@ -3,7 +3,7 @@ Det er på veg inn en artikkelserie i Bullen om piBug av LA9IHA, Ottar. Altså m
 
 Denne serien tar oss igjennom programmering fra det helt enkle til å kunne lage sammensatte systemer i Pyhton og Raspberry Pi Pico. Vi lagger en Elbug som blir mer og mer komplesert for hver artikkel. Når vi er ferdige har vi noe som dere kan videreutvikle til noe som blir mer funksjonsrikt enn for eksempel Logikey 5.
 
-<img height = "200"src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/pi.jpg">
+<img height = "200"  alt="Liten men full av pepp!" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/pi.jpg">
 
 
 For å ha glede av denne bør man nok være medlem av NRRL for å få tilgang til medlemsbladet der materialet er. I tillegg må man anskaffe noen saker til hardwaren:
