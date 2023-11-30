@@ -13,4 +13,6 @@ Arikkelen i Amatørradio beskriver denne metoden i detalj og forklarer koden.
 - **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B >
 - **Bok om Python**: Programmering i Python algoritmer og kode. Skrindo, Knut Weider og Øystein Johannes. Flott norsk bok som du kan kjøpe hos Haugenbok.no eller låne på biblioteket.
 - **Thonny**, programmeringsmiljøet: <https://thonny.org>
-- **Kode**: [https://github.com/LA9IHA/piBug/ ](https://github.com/LA9IHA/piBug/tree/main/bullen/art1)
+
+## Tilbake til samleside
+* <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/">Om artikkelen</a>
