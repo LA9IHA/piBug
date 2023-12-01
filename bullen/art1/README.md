@@ -11,7 +11,7 @@ Arikkelen i Amatørradio beskriver denne metoden i detalj og forklarer koden.
 ### Linker:
 - **Leverandører**: Det er mulig Christech leverer. Hvis ikke har jeg hatt hell med <https://thepihut.com/products/raspberry-pi-pico>
 - **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B >
-- **Bok om Python**: Programmering i Python algoritmer og kode. Skrindo, Knut Weider og Øystein Johannes. Flott norsk bok som du kan kjøpe hos Haugenbok.no eller låne på biblioteket.
+- **Bok om Python**: Programmering i Python algoritmer og kode. Skrindo, Knut Weider og Øystein Johannes. Flott norsk bok som du kan kjøpe hos Haugenbok.no eller låne på biblioteket. https://www.akademika.no/skoleboker/barne-og-ungdomsboker-motvillige-lesere/programmering-i-python/9788269333008
 - **Thonny**, programmeringsmiljøet: <https://thonny.org>
 
 ## Tilbake til samleside
