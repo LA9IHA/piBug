@@ -1,12 +1,14 @@
-# Artikkelserie i Amatørradio
+# piBug, en odysse
 Det er på veg inn en artikkelserie i Amatørradio om piBug av LA9IHA, Ottar. Altså meg selv.
 
-Denne serien tar oss igjennom programmering fra det helt enkle til å kunne lage sammensatte systemer i Pyhton og Raspberry Pi Pico. Vi lagger en Elbug som blir mer og mer komplesert for hver artikkel. Når vi er ferdige har vi noe som dere kan videreutvikle til noe som blir mer funksjonsrikt enn for eksempel Logikey 5.
+Denne serien tar oss igjennom programmering fra det helt enkle til å kunne lage sammensatte systemer i Pyhton og Raspberry Pi Pico. Vi lagger en Elbug som blir mer og mer komplesert for hver artikkel. Når vi er ferdige har vi noe som dere kan videreutvikle til noe som blir mer funksjonsrikt enn for eksempel Logikey model 5:
 
-<img height = "200"  alt="Liten men full av pepp!" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/pi.jpg">
+<img height = "250" alt="En veldig bra elbug keyer" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/logkey.jpg">
 
 ## Introduksjon
 De siste årene har det vært en fantastisk utvikling innenfor mikrokontrollere og det er billig! For oss radioamatører kan vi lage styringsenhet for antennetuner, kontroll av SDR radio, repeaterlogikk og mye annet. I denne artikkelserien eksperimenterer vi med en elbug  på steroider. Ingen programmeringserfaring er nødvendig og vi lærer underveis. 
+
+<img height = "200"  alt="Liten men full av pepp!" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/pi.jpg">
 
 Å programmere mikrokontrollere er ikke vanskelig men annerledes enn PC programmering. Uten operativsystem må alt kodes. Det er tregere CPU, mindre RAM ulik testing mot hardwaren. Den bruker langt mindre strøm og fungerer i uker og måneder på batteri.
 
