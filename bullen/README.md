@@ -5,6 +5,13 @@ Denne serien tar oss igjennom programmering fra det helt enkle til å kunne lage
 
 <img height = "250" alt="En veldig bra elbug keyer" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/logkey.jpg">
 
+## Men morse da, hører ikke det hjemme på museum?
+Det er akkurat dette som er så fint med amatørradio. Vi fakturerer ikke timer og derfor gjør vi det vi vil. Morsetelegrafi er en kommunikasjon som krever litt men det funker. Når du får det til får du noe som heter mestringsfølelse. Det kan vi aldri få nok av.
+
+Det jo også mange som ikke bryr seg om å spille piano eller andre instrumenter. De hører heller på Spotify. Hvem tror du er lykkeligst, de som spiller musikken eller de som spiller den av på nettet. Den samme sammenligningen er de som fyrer av en SMS eller tar seg bryet om å kunne faktisk kommunisere med helt basale verktøy.
+
+Jeg må få si noen ord om nøkler også, de som kommer med to paddles. Jeg greier ikke å holde meg men tar frem <a href = "https://github.com/LA9IHA/piBug/blob/main/bullen/paddlekeys.md">litt paddle fetisj her</a>
+
 ## Introduksjon
 De siste årene har det vært en fantastisk utvikling innenfor mikrokontrollere og det er billig! For oss radioamatører kan vi lage styringsenhet for antennetuner, kontroll av SDR radio, repeaterlogikk og mye annet. I denne artikkelserien eksperimenterer vi med en elbug  på steroider. Ingen programmeringserfaring er nødvendig og vi lærer underveis. 
 
