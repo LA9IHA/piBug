@@ -9,7 +9,7 @@ La oss legge til rette for å ta den helt ut med alle finnesser og funksjoner vi
 
 Når det blir helt absurd er det bare ett steg igjen til det geniale!
 
-Det er forresten en på Youtube som har nerdet kraftig på slike nøkler så har du syv minutter å ofre, <a href="https://www.youtube.com/watch?v=uPheyoHmuDA" target="_blank">Versågod</a>
+Det er forresten en på Youtube som har nerdet kraftig på slike nøkler så har du syv minutter å ofre, <a href="https://www.youtube.com/watch?v=uPheyoHmuDA" target="_blank">Værsågod</a>
 
 ## Om eksperimentet
 Dette handler ikke om å ta frem et ferdig produkt men heller å lære om hvordan man lager noe. Derfor presenterer jeg flere versjoner av bug'en. Etter å ha lest og studert artiklene, forsøkt seg selg litt og sett på eksempelkodene så vil du selv kunne lage egne programmer for miklrokontrollere.
