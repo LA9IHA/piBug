@@ -45,6 +45,8 @@ Så til artiklene. Her er linkene ned til dem:
 
 * Artikkel 1: <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/art1">ARTIKKEL 1</a> Januar 2024
 
+Hvis du ikke har artiklene så stikk innom <a href="https://www.nrrl.no">Norsk Radio Relæ Liga</a> og be om å få være med i klubben. Da kan du hente ned materialet på nettet og til og med få medlemsbladet Amatørradio i posten. Det er ordentlig trivelig lesestoff!
+
 Jeg hekter på nye artikler etter hvert som de blir publisert. God lesning og jeg håper dere kommer til å sette pris på dette.
 
 
