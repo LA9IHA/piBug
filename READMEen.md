@@ -1,5 +1,5 @@
 # LA9IHA piBug
-<a href="https://github.com/LA9IHA/piBug">Norsk her!</a>
+<a href="https://github.com/LA9IHA/piBug/blob/main/README.md"><img height= "25" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/NO.jpg"> Norsk her!</a>
 
 piBug is a platform for the experimenting radio Ham who would like to learn programming for the Raspberry Pi Pico. This is a small microcontroller with plenty of power you may program in Python or C.
 
