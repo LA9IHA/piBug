@@ -12,7 +12,6 @@ Urporodusenten av paddles. <a href="https://vibroplex.com/contents/en-us/d1.html
 
 <img src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/vibroplex.jpg">
 
-
 ## Begali
 En riktig luksusnøkkel fra Italia. <a href = "http://i2rtf.com/" target = "_blank">I2RTF</a> står bak denne skjønnheten. De kommer i mange materialer og former og koster noen kroner men, hmmmm. Deilig.
 
@@ -23,6 +22,20 @@ For field days, SOTA, opp i trærne og ut på tur. Du trenger noe lett å ta med
 
 <img src = "https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/tnk.jpg">
 
+## Te-Ne-Ke
+For field days, SOTA, opp i trærne og ut på tur. Du trenger noe lett å ta med fra <a href = "https://w8cso.org/te-ne-ke/">te-ne-ke</a> like fra kongedømmeet Canada. Den er så liten og nett du kan feste den til skriveunderlaget for loggen.
+
+<img src = "https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/tnk.jpg">
+
+## KG4JJH
+Hvis man ikke har helt sansen for finmekanikk så er det fortsatt håp. <a href="https://kg4jjh.com/keyer.html" target = "_blank">KG4JJH</a> Allen har laget en solid state key. Han deler byggetegningene til en komplett keyer men ikke så flott som piBug. Her er det potensiale for et sideprosjekt med solid state paddles for piBug. Det beste fra begge verdner?
+
+<img src = "https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/kg4jjh.jpg">
+
+## BaMa
+Under firmanavnet står det Feinmechanik - altså tysk fra <a href="https://www.bamatech.net/" target = "_blank">BaMaTech</a>. Vi snakker Brahms, Bethoven og Goethes landsmenn har laget noen urverk av nøkler. Jeg mangler ord, hvor har du vært hele mitt liv du lille?
+
+<img src = "https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/bamakey.jpg">
 
 
 ## Tilbake
