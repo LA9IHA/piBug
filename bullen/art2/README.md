@@ -1,6 +1,6 @@
 # Hjemmebygg med mikrokontroller, piBug, nummer 2, April 2024.
 
-Den adnre artikkelen er ikke helt klar enda. Den kommer nok men ha litt tålmodighet med meg.
+Den andre artikkelen er ikke helt klar enda. Den kommer nok men ha litt tålmodighet med meg.
 
 Jeg kan imidlertid fortelle hva vi skal gjøre. Resultatet blir en keyer ganske lik den forrige men likevel litt bedre. Vi får med de forbedringene som ble beskrevet i hjemmeleksene.
 
