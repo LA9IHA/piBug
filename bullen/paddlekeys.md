@@ -2,6 +2,14 @@
 
 Mangler du en elbug nøkkel, ah, fortvil ei. Det er jo så mange å velge mellom.
 
+## Bencher
+En godt kjent og god nøkkel produseres av <a href = "https://bencher.com/" target = "_blank">Bencher</a> i USA. Nå har Vibroplex kjøpt dem opp. Bencher er lette å vedlikeholde, de sitter tungt og godt på bordet og finner seg vel tilrette i ethvert møblert hjem.
+
+<img src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/bencher.jpg">
+
+## Vibroplex
+Urporodusenten av paddles. [De](https://vibroplex.com/contents/en-us/d1.html) begynte med en sak der man sendte strekene manuelt med høyre paddle og prikkene ble laget av en fjæranordning som gjorde at de kom av seg selv. 
+
 ## Begali
 En riktig luksusnøkkel fra Italia. <a href = "http://i2rtf.com/" target = "_blank">I2RTF</a> står bak denne skjønnheten. De kommer i mange materialer og former og koster noen kroner men, hmmmm. Deilig.
 
