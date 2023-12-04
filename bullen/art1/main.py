@@ -9,8 +9,8 @@ from machine import Pin
 import utime
 
 # Globale brukervariabler
-t_pace = 100    # Grunnhastighet, 1 normal prikklengde
-out_tone = 440  # Frekvens, audio monitor
+tFart = 100    # Grunnhastighet, 1 normal prikklengde
+toneOut = 440  # Frekvens, audio monitor
 
 # IO-porter
 paddle1 = 3     # GPIO pinne for paddlene
@@ -38,14 +38,14 @@ def keyDown(s):
         l = 3      # tre
     lastPaddle = s # Så husker vi siste paddle
     
-    spkr.freq(out_tone)  # Start piping i monitor
+    spkr.freq(toneOut)  # Start piping i monitor
     spkr.duty_u16(32768) # med 50% duty cycle
     
     k1.value(1)                  # Slå på TX
-    utime.sleep(l * t_pace/1000) # Vent til signalet er ferdig
+    utime.sleep(l * tFart/1000) # Vent til signalet er ferdig
     k1.value(0)                  # Slå av TX
     spkr.duty_u16(0)             # Slå av monitor
-    utime.sleep(t_pace/1000)     # Vent en prikklengde
+    utime.sleep(tFart/1000)     # Vent en prikklengde
 
 # #######
 # Funksjon for å lese paddles og legge keyDown. Hvis begge paddles er inne så gjøres
