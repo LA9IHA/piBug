@@ -57,6 +57,11 @@ Så til artiklene. Her er linkene ned til dem:
 
 Hvis du ikke har artiklene så stikk innom <a href="https://www.nrrl.no" target="_blank">Norsk Radio Relæ Liga</a> og be om å få være med i klubben. Da kan du hente ned materialet på nettet og til og med få medlemsbladet Amatørradio i posten. Det er ordentlig trivelig lesestoff!
 
+## Forum
+Det er etablert et diskusjonsforum der alle kan hive seg med i diskusjonen. Opprett gjerne en konto der så kan dere være med på moroa - live.
+
+<a hre="https://pibug.forumotion.eu/">pibug.forumotion.eu</a>
+
 Jeg hekter på nye artikler etter hvert som de blir publisert. God lesning og jeg håper dere kommer til å sette pris på dette.
 
 
