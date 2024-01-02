@@ -1,7 +1,7 @@
 # piBug, en odysse
 Det er på veg inn en artikkelserie i Amatørradio om piBug av LA9IHA, Ottar. Altså meg selv.
 
-Denne serien tar oss igjennom programmering fra det helt enkle til å kunne lage sammensatte systemer i Pyhton og Raspberry Pi Pico. Vi lagger en Elbug som blir mer og mer komplesert for hver artikkel. Når vi er ferdige har vi noe som dere kan videreutvikle til noe som blir mer funksjonsrikt enn for eksempel Logikey model 5:
+Denne serien tar oss igjennom programmering fra det helt enkle til å kunne lage sammensatte systemer i Python og Raspberry Pi Pico. Vi lagger en Elbug som blir mer og mer komplisert for hver artikkel. Når vi er ferdige har vi noe som dere kan videreutvikle til noe som blir mer funksjonsrikt enn for eksempel Logikey model 5:
 
 <img height = "250" alt="En veldig bra elbug keyer" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/logkey.jpg">
 
@@ -30,7 +30,7 @@ Det er enkelt å komme i gang med massevis av dokumentasjon og aktivt miljø på
 For å ha glede av denne bør man nok være medlem av NRRL for å få tilgang til medlemsbladet der materialet er. I tillegg må man anskaffe noen saker til hardwaren:
 
 - Raspberry Pi Pico med en USB ledning
-- En liten høytaler og en 10 uF elektrolytt for å kunne høre hva som kjøres
+- En liten høyttaler og en 10 uF elektrolytt for å kunne høre hva som kjøres
 - En paddle eller paddle alternativ, f.eks to små brytere som er koplet opp som hhv Paddle 1 og Paddle 2.
 - To, helst seks brytere for å kunne kontrollere saken når vi er kommet litt ut i prosjektet
 - En motstand, 330 Ohm
