@@ -10,7 +10,7 @@ Det er akkurat dette som er så fint med amatørradio. Vi fakturerer ikke timer 
 
 Det jo også mange som ikke bryr seg om å spille piano eller andre instrumenter. De hører heller på Spotify. Hvem tror du er lykkeligst, de som spiller musikken eller de som spiller den av på nettet. Den samme sammenligningen er de som fyrer av en SMS eller tar seg bryet om å kunne faktisk kommunisere med helt basale verktøy.
 
-Jeg må få si noen ord om nøkler også, de som kommer med to paddles. Jeg greier ikke å holde meg men tar frem <a href = "https://github.com/LA9IHA/piBug/blob/main/bullen/paddlekeys.md">litt paddle fetisj her</a>
+Jeg må få si noen ord om nøkler også, de som kommer med to paddles. Jeg greier ikke å holde meg men tar frem <a href = "https://github.com/LA9IHA/piBug/blob/main/bullen/artikler/paddlekeys.md">litt paddle fetisj her</a>
 
 ## Introduksjon
 De siste årene har det vært en fantastisk utvikling innenfor mikrokontrollere og det er billig! For oss radioamatører kan vi lage styringsenhet for antennetuner, kontroll av SDR radio, repeaterlogikk og mye annet. I denne artikkelserien eksperimenterer vi med en elbug  på steroider. Ingen programmeringserfaring er nødvendig og vi lærer underveis. 
