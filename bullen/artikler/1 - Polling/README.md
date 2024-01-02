@@ -2,19 +2,19 @@
 
 Da er første artikkel klar. Det er sikkert en del som ikke har drevet med programmering før så jeg har gått forsiktig frem, og i små steg. Håper dere alle har hengt fint med. Litt lengre nede er den en link til å hente ned ferdig skrevet kode som fungerer hos meg.
 
-Hvis du er helt ny innen programmering så da er det lurt å låne eller kjøpe boken. Den norske kjenner jeg ikke så godt men den ser veldig bra ut. Det er også en engelsk bok som er annerkjent og den har jeg brukt litt selv.
+Hvis du er helt ny innen programmering så da er det lurt å låne eller kjøpe boken. Den norske kjenner jeg ikke så godt men den ser veldig bra ut. Det er også en engelsk bok som er anerkjent og den har jeg brukt litt selv.
 
 Du kommer sikkert til å trenge litt tid til å få i gang miljøet med Thonny og Pico. Det er ikke så vanskelig men slike ting kommer typisk i orden etter fjerde eller åttende forsøk. Les dokumentasjonen på Raspberry Pi sidene.
 
 ## Hva med litt sosialt samvær?
 
-Ingenting er så hyggelig som å ha et prosjekt i gruppen eller blandt noen interesserte radioamatører. Det er en veldig god ide. Dere lærer ikke like fort hele tiden. Noen lærer først og hjelper de som er litt bakpå. Dermed blir alle med og får det til. Dessuten, den beste måten å lære på er å prøve, feile, prøve igjen, forstå og deretter LÆRE DET BORT! Da sitter det sveist i skallen.
+Ingenting er så hyggelig som å ha et prosjekt i gruppen eller blant noen interesserte radioamatører. Det er en veldig god ide. Dere lærer ikke like fort hele tiden. Noen lærer først og hjelper de som er litt bakpå. Dermed blir alle med og får det til. Dessuten, den beste måten å lære på er å prøve, feile, prøve igjen, forstå og deretter LÆRE DET BORT! Da sitter det sveist i skallen.
 
 Bruk gjerne dette prosjektet som en sak å gjøre i noen byggekvelder. Hører gjerne fra dere hvordan det går :)
 
 ## Pin-up
 
-En sak som jeg ikke var så tydelig på var Pin nummer og pinne nummer på modulen. Det er jo litt forvirrende at Paddle på 3 og 4 går til pinne 5 og 6? Det skyldes simpelthen at Pin er knyttet opp mot IO portene på enheten som IKKE er de samme som pinnene på modulen. Hvis dere ser på pinnene for GP0 til GP28 ser dere at de ikke er ført ut til samme pin nummer som GP nummer. Dere ser det i tegningen under. mHer ser dere at samme pin kan ha flere type data på IO. Alt dette kan programeres. Oh, la la la så mye moro vi kan ha med en sånn liten ting.
+En sak som jeg ikke var så tydelig på var Pin nummer og pinne nummer på modulen. Det er jo litt forvirrende at Paddle på 3 og 4 går til pinne 5 og 6? Det skyldes simpelthen at Pin er knyttet opp mot IO portene på enheten som IKKE er de samme som pinnene på modulen. Hvis dere ser på pinnene for GP0 til GP28 ser dere at de ikke er ført ut til samme pin nummer som GP nummer. Dere ser det i tegningen under. Her ser dere at samme pin kan ha flere typer data på IO. Alt dette kan programmeres. Oh, la la la så mye moro vi kan ha med en sånn liten ting.
 
 <img src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/pinout.jpeg">
 
