@@ -25,11 +25,11 @@ Her er koden for programmet vi lagte i artikkelen. Det er bare å laste ned og k
 * <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/artikler/1%20-%20Polling/main.py">main.py</a>
 
 ## Om sendehastighet
-I Norge har vi brukt sendehastighet i bokstaver per minutt mens man i UK og USA bruker ord per minutt. De ulike morsesignalene har ulik lengde så man trenger et stndard ord å måle mot. Det ordet er PARIS. Når man analyserer det ordet finner man at lengden tilsvarer 50 prikker.
+I Norge har vi brukt sendehastighet i bokstaver per minutt mens man i UK og USA bruker ord per minutt. De ulike morsesignalene har ulik lengde så man trenger et standard ord å måle mot. Det ordet er PARIS. Når man analyserer det ordet finner man at lengden tilsvarer 50 prikker.
 
 For vår Pico er delayet oppgitt i millisekund. En prikk skal da vare i 100 ms og oppholdet deretter er nye 100 ms. Streken skal være tre ganger så lang og opphold mellom ord, like lenge. Ordet Paris blir da 50 * 100 ms = 50000 ms = 5 sekund.
 
-Vi erindrer også at et minutt er 60 sekund og har man et ord i minuttet blir det 60 / 5 = 12.
+Vi erindrer også at et minutt er 60 sekund og når hvert ord behøver 5 sekund er sendehastigheten 60 / 5 = 12 ord per minutt.
 
 Man har altså med 100 ms prikklengde, 12 ord i minuttet og multipliserer man det med antall bokstaver i ordet får man 12 * 5 = 60. Det er altså lik det gamle kravet fra telegrafieksamen for radioamatører.
 
