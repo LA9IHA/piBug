@@ -22,7 +22,7 @@ En sak som jeg ikke var så tydelig på var Pin nummer og pinne nummer på modul
 ## Kode
 Her er koden for programmet vi lagte i artikkelen. Det er bare å laste ned og kikke. Kjør den gjerne også. Eksperimenter med den. Ødelegger du det så last ned på nytt og prøv igjen. God fornøyelse!
 
-* <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/art1/main.py">main.py</a>
+* <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/artikler/1%20-%20Polling/main.py">main.py</a>
 
 ## Linker:
 - **Leverandører**: Det er mulig Christech leverer. Hvis ikke har jeg hatt hell med <https://thepihut.com/products/raspberry-pi-pico>
