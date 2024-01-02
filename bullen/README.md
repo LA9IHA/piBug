@@ -60,6 +60,10 @@ Hvis du ikke har artiklene så stikk innom <a href="https://www.nrrl.no" target=
 ## Forum
 Det er etablert et diskusjonsforum der alle kan hive seg med i diskusjonen. Opprett gjerne en konto der så kan dere være med på moroa - live.
 
+<b><a href="https://github.com/LA9IHA/piBug/discussions">https://github.com/LA9IHA/piBug/discussions</b> Diskusjonsforum.
+
+Ta en tur innom der og vær aktiv. Skriver du noe interessant vil andre også gjøre det :)
+
 <b><a href="https://pibug.forumotion.eu/">pibug.forumotion.eu</a></b>
 
 Jeg hekter på nye artikler etter hvert som de blir publisert. God lesning og jeg håper dere kommer til å sette pris på dette.
