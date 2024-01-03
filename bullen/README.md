@@ -48,26 +48,22 @@ Det står en del linker i artikkelen også. Få gjerne med dere dem og hvis du i
 
 Det er selvsagt mye kjekt på nettet også som kan være greit å lese men bruk tiden nøye. Det er fort gjort å kaste bort virkelig tid på ting som er dårlige eller direkte feil.
 
+## Litt fakta om Raspberry Pi Pico
+- Dette er en mikroprosessor med alle støtte som strømforsyning, minne, disk, I/O enten innebygd eller som tilleggskomponenter på kortet
+- Den får strøm enten fra USB, batterier eller strømforsyning
+- Den har ikke operativsystem men du kan legge ned et miljø for Python som gjør noe husholdningsarbeid for deg
+- Eksempelet vi skal jobbe oss igjennom er en avansert el-bug for radioamatører
+- Hvis du arbeider deg igjennom denne artikkelserien så lærer du å lage mer komplekse systemer enn de enkle hacks fra internett. Kunnskapen kan brukes for andre prosessorfamilier.
+
+## Artikkelserien
 Så til artiklene. Her er linkene ned til dem:
 
-* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/1-Polling">ARTIKKEL 1, Polling</a> Februar 2024
-* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/2-Interrupt">ARTIKKEL 2, Interrupt</a> April 2024
-* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/3-Objekter">ARTIKKEL 3, Objekter</a> Juni 2024
-* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/4-System">ARTIKKEL 4, System og ekstern kode</a> August 2024
+* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/1-Polling">ARTIKKEL 1, Polling</a> Februar 2024. Beskriver Raspberry Pi Pico og viser hvordan vi kan programmere en fungerende elbug på enkleste måte. Vi leser paddles og sender prikk eller strek og repeterer, det er alt.
+* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/2-Interrupt">ARTIKKEL 2, Interrupt</a> April 2024. Legger ut en alternativ måte der vi lar paddles eller timere lage interrupt og håndterer dem når de inntreffer. For øvrig har vi fått ledig tid til andre ting.
+* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/3-Objekter">ARTIKKEL 3, Objekter</a> Juni 2024. Viser hvordan vi kan strukturere kode i objekter. Da kan vi la et objekt ta seg av paddles, et annet kan sende bokstaver. Det gjør oss i stand til å lage mer kompleks kode med mange funksjoner uten å miste oversikten
+* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/4-System">ARTIKKEL 4, System og ekstern kode</a> August 2024. Tar oss igjennom hvordan vi kan bruke andres kode i våre prosjekter. Dessuten kan vi bruke samme kodebase til flere applikasjoner.
 
 Hvis du ikke har artiklene så stikk innom <a href="https://www.nrrl.no" target="_blank">Norsk Radio Relæ Liga</a> og be om å få være med i klubben. Da kan du hente ned materialet på nettet og til og med få medlemsbladet Amatørradio i posten. Det er ordentlig trivelig lesestoff!
-
-## Litt fakta om Raspberry Pi Pico
-•	Dette er en mikroprosessor med alle støtte som strømforsyning, minne, disk, I/O enten innebygd eller som tilleggskomponenter på kortet
-•	Den får strøm enten fra USB, batterier eller strømforsyning
-•	Den har ikke operativsystem men du kan legge ned et miljø for Python som gjør noe husholdningsarbeid for deg
-•	Eksempelet vi skal jobbe oss igjennom er en avansert el-bug for radioamatører
-•	Hvis du arbeider deg igjennom denne artikkelserien så lærer du å lage mer komplekse systemer enn de enkle hacks fra internett. Kunnskapen kan brukes for andre prosessorfamilier.
-•	Artikkel 1 beskriver Raspberry Pi Pico og viser hvordan vi kan programmere en fungerende elbug på enkleste måte. Vi leser paddles og sender prikk eller strek og repeterer, det er alt.
-•	Artikkel 2 legger ut en alternativ måte der vi lar paddles eller timere lage interrupt og håndterer dem når de inntreffer. For øvrig har vi fått ledig tid til andre ting.
-•	Artikkel 3 viser hvordan vi kan strukturere kode i objekter. Da kan vi la et objekt ta seg av paddles, et annet kan sende bokstaver. Det gjør oss i stand til å lage mer kompleks kode med mange funksjoner uten å miste oversikten
-•	Artikkel 4 tar oss igjennom hvordan vi kan bruke andres kode i våre prosjekter. Dessuten kan vi bruke samme kodebase til flere applikasjoner.
-
 
 ## Forum
 Det er etablert et diskusjonsforum der alle kan hive seg med i diskusjonen. Opprett gjerne en konto der så kan dere være med på moroa - live.
