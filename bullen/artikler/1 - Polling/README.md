@@ -1,4 +1,4 @@
-# Hjemmebygg med mikrokontroller, piBug, nummer 1, Januar 2024.
+# Hjemmebygg med mikrokontroller, piBug, nummer 1, Februar 2024.
 
 Da er første artikkel klar. Det er sikkert en del som ikke har drevet med programmering før så jeg har gått forsiktig frem, og i små steg. Håper dere alle har hengt fint med. Litt lengre nede er den en link til å hente ned ferdig skrevet kode som fungerer hos meg.
 
@@ -37,7 +37,7 @@ Man har altså med 100 ms prikklengde, 12 ord i minuttet og multipliserer man de
 - **Leverandører**: Det er mulig Christech leverer. Hvis ikke har jeg hatt hell med <https://thepihut.com/products/raspberry-pi-pico>
 - **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B >
 - **Bok om Python**: <a href="https://www.akademika.no/skoleboker/barne-og-ungdomsboker-motvillige-lesere/programmering-i-python/9788269333008" target="_blank">Programmering i Python algoritmer og kode</a>. Skrindo, Knut Weider og Øystein Johannes. Flott norsk bok som du kan kjøpe hos Haugenbok.no eller låne på biblioteket. 
-- **Engelsk bok om Python**: <a href="https://www.amazon.co.uk/Python-Crash-Course-3Rd-Matthes/dp/1718502702/" target="_blank">Python Crash Course, 3Rd Edition: A Hands-On, Project-Based Introduction to Programming</a>. Eric Matthes. Annerkjent engelsk bok som du ikke kjøper på Akademika men på Amazon til en mer edruelig pris.
+- **Engelsk bok om Python**: <a href="https://www.amazon.co.uk/Python-Crash-Course-3Rd-Matthes/dp/1718502702/" target="_blank">Python Crash Course, 3Rd Edition: A Hands-On, Project-Based Introduction to Programming</a>. Eric Matthes. Anerkjent engelsk bok som du ikke kjøper på Akademika men på Amazon til en mer edruelig pris.
 - **Thonny**, programmeringsmiljøet: <https://thonny.org>
 
 
