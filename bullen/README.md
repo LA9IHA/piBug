@@ -44,7 +44,7 @@ Mitt lille eksperiment ser ut omtrent som dette:
 
 For å forstå denne lille saken er det også lurt å ta en titt på pinout diagrammet for modulen. Den finner dere på <a href= "https://datasheets.raspberrypi.com/pico/Pico-R3-A4-Pinout.pdf">PINOUT DIAGRAM</a> linken.
 
-Det står en del linker i artikkelen også. Få gjerne med dere dm og hvis du ikke har programmert noe særlig så går det nok litt heftig fort i artiklene. Kjøp eller lån boken jeg nevnte i artikkelen og slå opp i den og les når du lurer på noe. Det gjør læringen mye kjappere.
+Det står en del linker i artikkelen også. Få gjerne med dere dem og hvis du ikke har programmert noe særlig så går det nok litt heftig fort i artiklene. Kjøp eller lån boken jeg nevnte i artikkelen og slå opp i den og les når du lurer på noe. Det gjør læringen mye kjappere.
 
 Det er selvsagt mye kjekt på nettet også som kan være greit å lese men bruk tiden nøye. Det er fort gjort å kaste bort virkelig tid på ting som er dårlige eller direkte feil.
 
@@ -56,6 +56,18 @@ Så til artiklene. Her er linkene ned til dem:
 * <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/4-System">ARTIKKEL 4, System og ekstern kode</a> August 2024
 
 Hvis du ikke har artiklene så stikk innom <a href="https://www.nrrl.no" target="_blank">Norsk Radio Relæ Liga</a> og be om å få være med i klubben. Da kan du hente ned materialet på nettet og til og med få medlemsbladet Amatørradio i posten. Det er ordentlig trivelig lesestoff!
+
+## Litt fakta om Raspberry Pi Pico
+•	Dette er en mikroprosessor med alle støtte som strømforsyning, minne, disk, I/O enten innebygd eller som tilleggskomponenter på kortet
+•	Den får strøm enten fra USB, batterier eller strømforsyning
+•	Den har ikke operativsystem men du kan legge ned et miljø for Python som gjør noe husholdningsarbeid for deg
+•	Eksempelet vi skal jobbe oss igjennom er en avansert el-bug for radioamatører
+•	Hvis du arbeider deg igjennom denne artikkelserien så lærer du å lage mer komplekse systemer enn de enkle hacks fra internett. Kunnskapen kan brukes for andre prosessorfamilier.
+•	Artikkel 1 beskriver Raspberry Pi Pico og viser hvordan vi kan programmere en fungerende elbug på enkleste måte. Vi leser paddles og sender prikk eller strek og repeterer, det er alt.
+•	Artikkel 2 legger ut en alternativ måte der vi lar paddles eller timere lage interrupt og håndterer dem når de inntreffer. For øvrig har vi fått ledig tid til andre ting.
+•	Artikkel 3 viser hvordan vi kan strukturere kode i objekter. Da kan vi la et objekt ta seg av paddles, et annet kan sende bokstaver. Det gjør oss i stand til å lage mer kompleks kode med mange funksjoner uten å miste oversikten
+•	Artikkel 4 tar oss igjennom hvordan vi kan bruke andres kode i våre prosjekter. Dessuten kan vi bruke samme kodebase til flere applikasjoner.
+
 
 ## Forum
 Det er etablert et diskusjonsforum der alle kan hive seg med i diskusjonen. Opprett gjerne en konto der så kan dere være med på moroa - live.
