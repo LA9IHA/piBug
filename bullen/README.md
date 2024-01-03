@@ -50,10 +50,10 @@ Det er selvsagt mye kjekt på nettet også som kan være greit å lese men bruk 
 
 Så til artiklene. Her er linkene ned til dem:
 
-* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/1%20-%20Polling">ARTIKKEL 1, Polling</a> Februar 2024
-* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/2%20-%20Interrupt">ARTIKKEL 2, Interrupt</a> April 2024
-* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/3%20-%20Objekter">ARTIKKEL 3, Objekter</a> Juni 2024
-* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/4%20-%20System%20og%20ekstern%20kode">ARTIKKEL 4, System og ekstern kode</a> August 2024
+* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/1-Polling">ARTIKKEL 1, Polling</a> Februar 2024
+* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/2-Interrupt">ARTIKKEL 2, Interrupt</a> April 2024
+* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/3-Objekter">ARTIKKEL 3, Objekter</a> Juni 2024
+* <a href="https://github.com/LA9IHA/piBug/tree/main/bullen/artikler/4-System%20og%20ekstern%20kode">ARTIKKEL 4, System og ekstern kode</a> August 2024
 
 Hvis du ikke har artiklene så stikk innom <a href="https://www.nrrl.no" target="_blank">Norsk Radio Relæ Liga</a> og be om å få være med i klubben. Da kan du hente ned materialet på nettet og til og med få medlemsbladet Amatørradio i posten. Det er ordentlig trivelig lesestoff!
 
