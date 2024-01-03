@@ -22,7 +22,7 @@ En sak som jeg ikke var så tydelig på var Pin nummer og pinne nummer på modul
 ## Kode
 Her er koden for programmet vi lagte i artikkelen. Det er bare å laste ned og kikke. Kjør den gjerne også. Eksperimenter med den. Ødelegger du det så last ned på nytt og prøv igjen. God fornøyelse!
 
-* <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/artikler/1%20-%20Polling/main.py">main.py</a>
+* <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/artikler/1-Polling/main.py">main.py</a>
 
 ## Om sendehastighet
 I Norge har vi brukt sendehastighet i bokstaver per minutt mens man i UK og USA bruker ord per minutt. De ulike morsesignalene har ulik lengde så man trenger et standard ord å måle mot. Det ordet er PARIS. Når man analyserer det ordet finner man at lengden tilsvarer 50 prikker.
