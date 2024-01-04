@@ -13,6 +13,7 @@ Joda, det kommer også kode etter hvert.
 
 ## Linker:
 - **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B >
+- **Cad**: <https://github.com/ncarandini/KiCad-RP-Pico> setup for Raspberry Pi Pico for KiCad
 
 ## Tilbake til samleside
 * <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/">Om artikkelen</a>
