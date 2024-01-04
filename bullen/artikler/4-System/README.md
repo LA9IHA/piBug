@@ -12,7 +12,7 @@ Joda, det kommer også kode etter hvert.
 * 
 
 ## Linker:
-- **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B >
+- **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B> Raspberry Pi sine egne dokumentasjonssider
 - **Cad**: <https://github.com/ncarandini/KiCad-RP-Pico> setup for Raspberry Pi Pico for KiCad
 
 ## Tilbake til samleside
