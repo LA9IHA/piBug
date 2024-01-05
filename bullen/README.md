@@ -72,8 +72,6 @@ Det er etablert et diskusjonsforum der alle kan hive seg med i diskusjonen. Oppr
 
 Ta en tur innom der og vær aktiv. Skriver du noe interessant vil andre også gjøre det :)
 
-<b><a href="https://pibug.forumotion.eu/">pibug.forumotion.eu</a></b>
-
 Jeg hekter på nye artikler etter hvert som de blir publisert. God lesning og jeg håper dere kommer til å sette pris på dette.
 
 
