@@ -53,7 +53,7 @@ def keyDown(s):
 # Parameter: Ingen
 #
 def scanPaddles():
-    if (sw1.value() + sw2.value()) > 0: # Les Beddle nivåene og hvis minst en er på så
+    if (sw1.value() + sw2.value()) > 0: # Les Begge nivåene og hvis minst en er på så
         if lastPaddle == 0:             # hvis siste signal var prikk
             if sw2.value() != 0:        # og paddle 2 er inne
                 keyDown(1)              # så send en strek
