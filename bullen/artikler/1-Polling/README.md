@@ -24,6 +24,10 @@ Her er koden for programmet vi lagte i artikkelen. Det er bare å laste ned og k
 
 * <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/artikler/1-Polling/main.py">main.py</a>
 
+En par ting å merke seg i koden:
+* Alt som kommer etter et # tegn bety kommentar. Picoen forholder seg ikke til det og det er ment for at mennesker skal kunne legge til forklarende tekst der det er behov.
+* Tab som innrykk er helt essensielt. Det er den feilen de aller fleste sliter med. Funker det ikke så sjekk om det er tab!
+
 ## Om sendehastighet
 I Norge har vi brukt sendehastighet i bokstaver per minutt mens man i UK og USA bruker ord per minutt. De ulike morsesignalene har ulik lengde så man trenger et standard ord å måle mot. Det ordet er PARIS. Når man analyserer det ordet finner man at lengden tilsvarer 50 prikker.
 
