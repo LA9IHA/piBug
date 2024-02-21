@@ -10,6 +10,12 @@ Måten slike interrupter fungerer er at man setter opp betingelsene for de ulike
 
 For å holde styr på alt dette har vi en del teknikker men dem får jeg komme tilbake til i artikkelen. Jobber med den nå så ha tålmodighet med meg.
 
+## Søvn
+Søvn er viktig for oss alle, også den lille Pico'en. Når den sover så bruker den mye mindre energi og batteriet varer lengre. Her er litt ekstramateriale om sleep.
+
+## Batteridrift
+
+
 
 ## Kode
 Det kommer også kode etter hvert.
@@ -18,6 +24,7 @@ Det kommer også kode etter hvert.
 
 ## Linker:
 - **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B >
+- **Litt mer om interrupter og hvordan de virker: <https://electrocredible.com/raspberry-pi-pico-external-interrupts-button-micropython/ >
 
 ## Tilbake til samleside
 * <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/">Om artikkelen</a>
