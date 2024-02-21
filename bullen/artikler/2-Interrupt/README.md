@@ -13,6 +13,12 @@ For å holde styr på alt dette har vi en del teknikker men dem får jeg komme t
 ## Søvn
 Søvn er viktig for oss alle, også den lille Pico'en. Når den sover så bruker den mye mindre energi og batteriet varer lengre. Her er litt ekstramateriale om sleep.
 
+https://github.com/raspberrypi/pico-playground/blob/7b53edc86106ae8e0bbba5026372294608747cff/sleep/hello_dormant/hello_dormant.c#L27
+
+https://ghubcoder.github.io/posts/waking-the-pico-external-trigger/
+
+
+
 ## Batteridrift
 
 
@@ -24,7 +30,8 @@ Det kommer også kode etter hvert.
 
 ## Linker:
 - **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B >
-- **Litt mer om interrupter og hvordan de virker: <https://electrocredible.com/raspberry-pi-pico-external-interrupts-button-micropython/ >
+- **Litt mer om interrupter og hvordan de virker**: <https://electrocredible.com/raspberry-pi-pico-external-interrupts-button-micropython/ >
+- 
 
 ## Tilbake til samleside
 * <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/">Om artikkelen</a>
