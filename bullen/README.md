@@ -1,5 +1,5 @@
 # piBug, en odysse
-Det er på veg inn en artikkelserie i Amatørradio om piBug av LA9IHA, Ottar. Altså meg selv.
+Da er første artikkel om piBug kommet inn i Amatørradio. Jeg håper du fikk prøvd med litt kode.
 
 Denne serien tar oss igjennom programmering fra det helt enkle til å kunne lage sammensatte systemer i Python og Raspberry Pi Pico. Vi lagger en Elbug som blir mer og mer komplisert for hver artikkel. Når vi er ferdige har vi noe som dere kan videreutvikle til noe som blir mer funksjonsrikt enn for eksempel Logikey model 5:
 
