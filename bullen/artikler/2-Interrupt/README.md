@@ -1,15 +1,15 @@
 # Hjemmebygg med mikrokontroller, piBug, nummer 2, April 2024.
 
-Den andre artikkelen er ikke helt klar enda. Den kommer nok men ha litt tålmodighet med meg.
+Nå er den andre artikkelen omsider klar. Jeg håper dere fant den interessant. Her var det om interrupter og det er en veldig annerledes måte å lage programmer. Man lar rett og slett prosessoren bryte inn når interruptet oppstår og kjøre koden som er knyttet til interruptet, deretter lar prosessoren programmet kjøre videre der det ble avbrutt.
 
-Jeg kan imidlertid fortelle hva vi skal gjøre. Resultatet blir en keyer ganske lik den forrige men likevel litt bedre. Vi får med de forbedringene som ble beskrevet i hjemmeleksene.
+Når dere lager interrupter er det viktig å gjøre seg ferdig med interruptrutinen så kjept som mulig slik at det vanlige programmet kan kjøres på vanlig måte. En vanlig teknikk er å lage en tilstandsmaskin. Det betyr at vi har en variabel som kan tilordnes en verdi i interruptrutinen. Når progrmmet kjører i vanlig modus sjekker det tilstandsmaskinen hyppig og hvis den ikke er i hvilemodus så utfører den oppgaven som tilstandsmaskinen beordrer og setter verdien tilbake til hvilemodus. Ett problem som kan oppstå er at en interrupt ikke er ferdig løst før en annen trør til. Derfor lar vi i vår oppgave tilstandsmaskinen være en liste av verdier og vi sletter dem etter hvert som de er utført.
 
-I tillegg skal vi forklare litt om interrupter og øve litt på det. Det er en veldig annerledes måte å lage programmer på som bruker for mikrokontrollere og prosessorer der man gjerne ikke har operativsystem under.
+Vi forholder oss til to hovedtyper av interrupter:
 
-Måten slike interrupter fungerer er at man setter opp betingelsene for de ulike interruptene. Det kan være brytere eller paddles eller timere. Så må man beskrive hva som skjer når de ulike interruptene fyrer av. Man må også holde litt orden slik at hvis interrupter fyrer av i hytt og pine så kan man ikke iste kontrollen.
+- **Input-interrupter**: Vi definerer en input pinne som kilde til interrupt. Når denne går til definert nivå skal prosessoren utløse et interrupt.
+- **Timer interrupt**: Dette er en intern timer i prosessoren. Den kan settes opp til telle ned en gang og fyre av et interrupt eller at den oscillerer med å starte en ny nedtelling etter at den forrige er ferdig.
 
-For å holde styr på alt dette har vi en del teknikker men dem får jeg komme tilbake til i artikkelen. Jobber med den nå så ha tålmodighet med meg.
-
+Vær forberedt på at en del feil i interruptdrevne programmer kan være vanskelige å finne. Derfor er programstruktur og oversikt svært viktig. Gjør gjerne tester i koden som hindrer progrmmet å gå videre eller rapporterer feil hvis forutsetningen for funksjonen ikke er til stede. Det kan være en indikasjon på at du har havnet i en feiltilstnd du ikke trodde ville skjedd. Tro meg, du vil bli overrasket over hvor mye rart som kan skje i software :)
 
 ## Batteridrift
 
