@@ -11,6 +11,11 @@ Vi forholder oss til to hovedtyper av interrupter:
 
 Vær forberedt på at en del feil i interruptdrevne programmer kan være vanskelige å finne. Derfor er programstruktur og oversikt svært viktig. Gjør gjerne tester i koden som hindrer progrmmet å gå videre eller rapporterer feil hvis forutsetningen for funksjonen ikke er til stede. Det kan være en indikasjon på at du har havnet i en feiltilstnd du ikke trodde ville skjedd. Tro meg, du vil bli overrasket over hvor mye rart som kan skje i software :)
 
+## Tilkopling til rig
+Vi har fokusert mye på kode men her er litt hardware for den som vil bruke Pibug på lufta. KG5U har et forslag for hvordan nøkle Super Keyer III og man kan nok bruke tilsvarende krets i dette eksperimentet. Jeg må nevne at jeg ikke har testet det så hvis noen har erfaringer, del gjerne.
+
+<img height="300" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/sk3.jpg">
+
 ## Batteridrift
 
 
