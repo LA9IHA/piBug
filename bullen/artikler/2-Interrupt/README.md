@@ -19,9 +19,9 @@ Vi har fokusert mye på kode men her er litt hardware for den som vil bruke Pibu
 ## Batteridrift
 Hvis det er slik at dere er klare for å gå på lufta med PiBug så er det jo triveligere hvis dere slipper å kople USB kabelen til en PC for å få strøm. Hva med batterier. Koplingen er som vist i tegningen under. Kopler du feil veg så ryker port 39 på kretsen. Nærmeste jord til Vcc er nabopinnen, 38.
 
-<img height="200" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/pico_batt.jpg">
+<img height="300" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/pico_batt.jpg">
 
-# Potmeter
+## Potensiometer
 Flere vil nok ønske å kunne regulere sendehastigheten med et potmeter. Det går fint. Picoen har innebygd to ADC - Analog til Digitalomsettere. Man kopler da et potmeter med endepunktene til Vcc og jord. Glideren koples til ADC inngngen og resten er programvare. Dere kan gjerne utvide eksperimentet med å lese potmeteret f.eks etter hvert tegn for å sette prikklengden. Samme trikset kan dere bruke for å endre medhørstonen.
 
 Denne oppgaven er ganske enkel så med mindre jeg blir spurt så tror jeg neppe jeg legger den inn i PiuBug nå men tar gjerne imot bidrag fra dere.
