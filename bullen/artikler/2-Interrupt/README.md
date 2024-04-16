@@ -42,6 +42,10 @@ God fornøyelse!
 
 * <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/artikler/2-interrupt/main.py">main.py</a>
 
+* <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/artikler/1-Polling/main.py">main.py</a>
+* <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/artikler/2-interrupt/main.py">main.py</a>
+
+
 ## Linker:
 - **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B >
 - **Litt mer om interrupter og hvordan de virker**: <https://electrocredible.com/raspberry-pi-pico-external-interrupts-button-micropython/ >
