@@ -43,7 +43,7 @@ God fornøyelse!
 * <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/artikler/2-interrupt/main.py">main.py</a>
 
 * <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/artikler/1-Polling/main.py">main.py</a>
-* <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/artikler/2-interrupt/main.py">main.py</a>
+* <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/artikler/2-Interrupt/main.py">main.py</a>
 
 
 ## Linker:
