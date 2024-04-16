@@ -36,9 +36,11 @@ Her er et par linker om hvordan man kan programmere potmeter input. Bruk det til
 * https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/potentiometer-and-pwm-led
 
 ## Kode
-Det kommer også kode etter hvert.
+Her er koden for programmet. Det ligger mange kommentarer i koden så du kan lese deg igjennom. Håper det ikke blir forvirrende. Last den gjerne ned og test ut selv. Hvis det går i stykker laster du på nytt. Prøv og utfordre den og lag egne løsninger. Hvis du finner feil i koden vil jeg gjerne høre om det og da vanker det hederlig omtale!
 
-* 
+God fornøyelse!
+
+* <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/artikler/2-interrupt/main.py">main.py</a>
 
 ## Linker:
 - **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B >
