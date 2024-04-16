@@ -17,9 +17,13 @@ Vi har fokusert mye på kode men her er litt hardware for den som vil bruke piBu
 <img height="200" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/sk3.jpg">
 
 ## Batteridrift
-Hvis det er slik at dere er klare for å gå på lufta med piBug så er det jo triveligere hvis dere slipper å kople USB kabelen til en PC for å få strøm. Hva med batterier. Koplingen er som vist i tegningen under. Kopler du feil veg så ryker port 39 på kretsen. Nærmeste jord til Vcc er nabopinnen, 38.
+Hvis det er slik at dere er klare for å gå på lufta med piBug så er det jo triveligere hvis dere slipper å kople USB kabelen til en PC for å få strøm. Hva med batterier. Koplingen er som vist i tegningen under. Nærmeste jord til Vcc er nabopinnen, 38.
 
 <img height="300" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/pico_batt.jpg">
+
+Kopler du feil veg så ryker port 39 på kretsen. Det er vel en ide å putte inn litt beskyttelse. Jeg rasket sammen en skisse som vist under. Sett en diode i sperreretning i serie med en liten motstand for å begrense strømmen. Med 3V bør det være nok med 12 Ohm for å bryte en liten sikring. Det bør være nok til at kretsen ikke stekes. Resultater fra eksperimenter mottas med takk.
+
+<img height="300" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/batteri.jpg">
 
 ## Potensiometer
 Flere vil nok ønske å kunne regulere sendehastigheten med et potmeter. Det går fint. Picoen har innebygd to ADC - Analog til Digitalomsettere. Man kopler da et potmeter med endepunktene til Vcc og jord. Glideren koples til ADC inngangen og resten er programvare. Dere kan gjerne utvide eksperimentet med å lese potmeteret f.eks etter hvert tegn for å sette prikklengden. Samme trikset kan dere bruke for å endre medhørstonen.
