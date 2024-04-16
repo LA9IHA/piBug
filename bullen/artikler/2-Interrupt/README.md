@@ -46,7 +46,6 @@ God fornøyelse!
 ## Linker:
 - **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B >
 - **Litt mer om interrupter og hvordan de virker**: <https://electrocredible.com/raspberry-pi-pico-external-interrupts-button-micropython/ >
-- 
 
 ## Tilbake til samleside
 * <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/">Om artikkelen</a>
