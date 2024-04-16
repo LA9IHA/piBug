@@ -26,7 +26,7 @@ Flere vil nok ønske å kunne regulere sendehastigheten med et potmeter. Det gå
 
 Denne oppgaven er ganske enkel så med mindre jeg blir spurt så tror jeg neppe jeg legger den inn i PiuBug nå men tar gjerne imot bidrag fra dere.
 
-Her er et par linker om hvordan man kan programmere potmeter input. Bruk det til inspirasjon!
+Her er et par linker om hvordan man kan programmere potmeter input. Bruk det til inspirasjon og send meg noen ord hvis du har gjordt det så kan vi dele beskrivelsen din her!
 
 * https://peppe8o.com/potentiometer-raspberry-pi-pico-micropython/
 * https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/potentiometer-and-pwm-led
