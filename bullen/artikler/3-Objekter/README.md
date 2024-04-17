@@ -1,17 +1,14 @@
 # Hjemmebygg med mikrokontroller, piBug, nummer 3, Juni 2024.
 
-Den tredje artikkelen er ivertfall ikke helt klar enda. Den kommer om en stund.
+I denne artikkelen ser vi på det som kalles objektorientert programmering. Vi pakker sammen kode i klasser slik at de kan fungere som objekter med sine egne funksjoner og relasjoner til andre objekter. Dermed kan vi enkelt og kntrollert utvide funksjonssettet til hele systemer uten miste kontroll.
 
-Jeg kan imidlertid fortelle hva vi skal gjøre. Resultatet blir en keyer med en del utvidelser.
+Med denne teknikken an man gjenbruke objekter man har laget tidligere eller låne fra andre. For å kunne bruke denne teknikken på en god måte er det veldig viktig at man pakker riktig. Det betyr at funksjonene inni klassen gjør jobben ferdig slik at man har klare og tydelige grensesnitt på utsided som kan benyttes av andre. Når man gjør det kan man beskrive input og outputparametre i en spesifikasjon. Legg gjerne også til andre forutsetninger som programmeringsspråk, operativystem og evt hardware. Når dere publiserer klassen med alle filer og funksjoner på Github eller andre steder kan hvem som helst hente ned objektet og bruke det direkte i sin egen kode uten å ha en formening om hva som er inni.
 
-Vi skal se på det som kalles objektorientert programmering. Der pakker vi sammen kode i klasser slik at de kan fungere som objekter med sine egne funksjoner og relasjoner til andre objekter. Dermed kan vi enkelt og kntrollert utvide funksjonssettet til hele systemer uten miste kontroll.
+Det blir omtrent som å kjøpe en IC og sette i kretsen sin. Man kan f.eks ha hele LF forsterkeren i en enkelt krets, HF og demodulator i en annen og en spenningsregulator i en tredje. Det blir hele prosjektet noen strøkomponenter og de tre kretsene. Da går ting kjappere. Ikke sant?
 
-Med denne teknikken an man også gjenbruke objekter man har laget tidligere eller låne fra andre. Dette er et verktøy som dere også an bruke i andre programmeringsprosjekter og samarbeide i hele gruppen eller andre fra fjern og nær som deler interessen
 
 ## Kode
-Joda, det kommer også kode etter hvert.
-
-* 
+Koden kommer, den er faktisk nesten klar :)
 
 ## Linker:
 - **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B >
