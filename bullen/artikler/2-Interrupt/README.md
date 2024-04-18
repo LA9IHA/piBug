@@ -13,6 +13,12 @@ Vi forholder oss til to hovedtyper av interrupter:
 
 Vær forberedt på at en del feil i interruptdrevne programmer kan være vanskelige å finne. Derfor er programstruktur og oversikt svært viktig. Gjør gjerne tester i koden som hindrer programmet å gå videre eller rapporterer feil hvis forutsetningen for funksjonen ikke er til stede. Det kan være en indikasjon på at du har havnet i en feiltilstand du ikke trodde ville skjedd. Tro meg, du vil bli overrasket over hvor mye rart som kan skje i software :)
 
+## Design av timing
+
+
+<img height="200" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/timing.jpg">
+
+
 ## Tilkopling til rig
 Vi har fokusert mye på kode men her er litt hardware for den som vil bruke piBug på lufta. KG5U har et forslag for hvordan nøkle PTT for Super Keyer III og man kan nok bruke tilsvarende krets til å nøkle keyer i dette eksperimentet. I stedet for tilkopling til Super keyer kopler du den til port 21, nøkkel. Jeg må nevne at jeg ikke har testet det så hvis noen har erfaringer, del gjerne.
 
