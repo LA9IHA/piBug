@@ -16,7 +16,7 @@ Vær forberedt på at en del feil i interruptdrevne programmer kan være vanskel
 ## Design av timing
 
 
-<img height="200" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/timing.jpg">
+<img height="500" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/timing.jpg">
 
 
 ## Tilkopling til rig
