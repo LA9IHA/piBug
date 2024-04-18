@@ -14,7 +14,11 @@ Vi forholder oss til to hovedtyper av interrupter:
 Vær forberedt på at en del feil i interruptdrevne programmer kan være vanskelige å finne. Derfor er programstruktur og oversikt svært viktig. Gjør gjerne tester i koden som hindrer programmet å gå videre eller rapporterer feil hvis forutsetningen for funksjonen ikke er til stede. Det kan være en indikasjon på at du har havnet i en feiltilstand du ikke trodde ville skjedd. Tro meg, du vil bli overrasket over hvor mye rart som kan skje i software :)
 
 ## Design av timing
+Her er et tips når du skal lage et program med interrupt rutiner. Tegn et timing program. Det hjelper deg å tenke igjennom hvordan du håndterer situasjonen med flere interrupter oppå hverandre. Vi har laget et system med flagg for å si at piBug er oppttt, alle nye paddeltrykk blir ignorert. Timingdiagrammet hjelper oss til å håndtere timere som stopper signalet eller holder gap mellom ord og bokstaver.
 
+Under her er et eksempel på et slikt. Jeg lagte dette for å illustrere sånn circa hva jeg ville oppnå før jeg begynte å programmere. Det gjør at man forstår oppgaven ordentlig.
+
+Hvis du skal lage et kritisk program med høy kvalitet bør du lage timingdiagrammet ordentlig og helt ferdig med alle de ulike konstellasjonene av tilstandsmaskiner, flagg, timere og andre interrupter du kan komme på. En times innsats i et timingprogram kan spare dager i feilsøking. Dessuten blir koden også lettere å lese!
 
 <img height="500" src="https://raw.githubusercontent.com/LA9IHA/piBug/main/bullen/assets/timing.jpg">
 
