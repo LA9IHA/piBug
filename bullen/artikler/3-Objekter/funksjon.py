@@ -1,13 +1,15 @@
-## PiBug - functions 1
+## PiBug - funksjon
 #
-# (C) Copyright 2013 Ottar Kvindesland - LA9IHA
+# (C) Copyright 2024 Ottar Kvindesland - LA9IHA
 #
-# Licence: GPL v.2.0. See https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
-#
-
+# Licence: GPL v.2.0. See https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+# 
+# Dette er en del av Artikkel 3 i Amatørradio Juni 2024 utgitt av Norsk Radio Relæ Liga.
+# Her styres tastaturet.
+# 
 from keyer import Keyer
 
-class Funksjoner(Keyer):
+class Funksjoner(Keyer):  # Definer klassen og arv klassen Keyer
     from machine import Pin, Timer, PWM
     
     def __init__(self):
@@ -98,25 +100,25 @@ class Funksjoner(Keyer):
         self.knappMatrix = [0, self.kn1.value(), self.kn2.value(), self.kn3.value(), self.kn4.value(), self.kn5.value(), self.kn6.value()]
         self.knappAktiv = True
 
-    def bin2dec(self, b):
+    def bin2dec(self, b):  # Konverter et desimalt tall til en binær sekvens.
         b = "".join(str(x) for x in b)
         d = int(b, 2)
         return d
             
-    def lesKnapp(self):
-        self.sjekkTilstand()
+    def lesKnapp(self):                                # Les knapper fra tastaturet
+        self.sjekkTilstand()                           # Kjør tilstandsmaskin i keyer (Den er arvet, se toppen)
         if self.knappAktiv == True:
             self.knappAktiv = False
-            ord = self.bin2dec(self.knappMatrix)
-            if ord > 0:
-                self.nyttOrd = max(self.nyttOrd, ord)
+            ord = self.bin2dec(self.knappMatrix)       # Les knappematrisen, konverter til desimal og legg til variabel ord
+            if ord > 0:                                # Hvis det er et ord
+                self.nyttOrd = max(self.nyttOrd, ord)  # Lagre den største verdien så langt
             else:
-                self.sisteOrd = self.nyttOrd
-                self.nyttOrd = 0
+                self.sisteOrd = self.nyttOrd           # Når knappene er sluttet (ord = 0)
+                self.nyttOrd = 0                       # Resett variabel for bruk neste gang noen trykker knappene
                 
-    def hentOrd(self):
-        self.lesKnapp()
-        r = self.sisteOrd
-        if self.sisteOrd > 0:
-            self.sisteOrd = 0
+    def hentOrd(self):                                 # Hent ordet
+        self.lesKnapp()                                # Les knappene
+        r = self.sisteOrd                              # Les siste ord
+        if self.sisteOrd > 0:                          # Hvis det er satt
+            self.sisteOrd = 0                          # Resett variabel for bruk neste gang noen trykker knappene
         return r
