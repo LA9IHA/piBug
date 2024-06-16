@@ -13,6 +13,7 @@ Dere finner koden i listen over. Last alle filene over i picoen og la leiken sta
 
 ## Linker:
 - **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B >
+- **HF sender med Pico**: <* <https://101-things.readthedocs.io/en/latest/ham_transmitter.html> Her er en veldig morsom liten krets. Et artig prosjekt som du også kan bruke din pico til!
 
 ## Tilbake til samleside
 * <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/">Om artikkelen</a>
