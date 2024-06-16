@@ -1,9 +1,12 @@
-## PiBug - MorseKode
+## PiBug - morsekode
 #
-# (C) Copyright 2023 Ottar Kvindesland - LA9IHA
+# (C) Copyright 2024 Ottar Kvindesland - LA9IHA
 #
-# Licence: GPL v.2.0. See https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
-#
+# Licence: GPL v.2.0. See https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+# 
+# Dette er en del av Artikkel 3 i Amatørradio Juni 2024 utgitt av Norsk Radio Relæ Liga.
+# Denne klassen håndterer morsealfabetet
+# 
 
 class MorseKode:
     
@@ -85,23 +88,3 @@ class MorseKode:
                 return tall[0]
         if funnet == False:
             return(' ')
-
-    #def putTekst (self, s):
-    #    r = []
-    #    for l in s:
-    #        r.append(self.hentTallFraBokstav(l))
-    #        
-    #    return r
-
-#m = MorseKode()
-#bokst = 'G'
-#t = m.hentTallFraBokstav(bokst)
-
-#tekst = "LA9IHA"
-#t = m.putTekst(tekst)
-#print (t)
-
-#n = 0
-#for tegn in t:
-#    print (tekst[n], ": ", tegn)
-#    n += 1
