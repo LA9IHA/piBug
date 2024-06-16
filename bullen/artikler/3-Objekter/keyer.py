@@ -1,11 +1,19 @@
+## PiBug - keyer
+#
+# (C) Copyright 2024 Ottar Kvindesland - LA9IHA
+#
+# Licence: GPL v.2.0. See https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+# 
+# Dette er en del av Artikkel 3 i Amatørradio Juni 2024 utgitt av Norsk Radio Relæ Liga.
+#
 import time
 from machine import Timer
-class Keyer:
-    from machine import Pin, PWM, Timer
+class Keyer:                             # Definer objektet
+    from machine import Pin, PWM, Timer  # Importer andre objekter, her standard Python
     
-    def __init__(self):
-        from morsekode import MorseKode
-        self.morse = MorseKode()
+    def __init__(self):                  # Definer kontruktoren
+        from morsekode import MorseKode  # Import Morsekode klassen
+        self.morse = MorseKode()         # Tildel variabel morse til klassen MorseKode
 
         # IO-ports
         self.paddle1 = 3
