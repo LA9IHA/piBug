@@ -7,8 +7,9 @@ Med denne teknikken an man gjenbruke objekter man har laget tidligere eller lån
 Det blir omtrent som å kjøpe en IC og sette i kretsen sin. Man kan f.eks ha hele LF forsterkeren i en enkelt krets, HF og demodulator i en annen og en spenningsregulator i en tredje. Det blir hele prosjektet noen strøkomponenter og de tre kretsene. Da går ting kjappere. Ikke sant?
 
 
+
 ## Kode
-Koden kommer, den er faktisk nesten klar :)
+Dere finner koden i listen over. Last alle filene over i picoen og la leiken starte.
 
 ## Linker:
 - **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B >
