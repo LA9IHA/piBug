@@ -15,12 +15,12 @@ https://github.com/raspberrypi/pico-playground/blob/7b53edc86106ae8e0bbba5026372
 https://ghubcoder.github.io/posts/waking-the-pico-external-trigger/
 
 
-
-
 ## Kode
 Joda, det kommer også kode etter hvert.
 
-* 
+## I2C
+Når du får deg en ny I2C krets kan det være greit å sjekke hvilken adresse den bruker. Her er litt kode som beskriver det:
+
 
 ## Linker:
 - **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B> Raspberry Pi sine egne dokumentasjonssider
