@@ -25,6 +25,8 @@ Når du får deg en ny I2C krets kan det være greit å sjekke hvilken adresse d
 ## Linker:
 - **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B> Raspberry Pi sine egne dokumentasjonssider
 - **Cad**: <https://github.com/ncarandini/KiCad-RP-Pico> setup for Raspberry Pi Pico for KiCad
+- **Debug i Thonny**: https://jongarvin.com/up/ICS3U/handouts/ICS3U_debugger_thonny.pdf
+- 
 
 ## Tilbake til samleside
 * <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/">Om artikkelen</a>
