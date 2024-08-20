@@ -34,7 +34,8 @@ Når du får deg en ny I2C krets kan det være greit å sjekke hvilken adresse d
 - Passende display: https://www.banggood.com/HW-060B-1602-LCD-5V-Yellow-green-Screen-IIC-I2C-Interface-Module-1602-LCD-Display-Adapter-Board-p-1885095.html?cur_warehouse=CN&rmmds=search
 - Datablad, display: https://www.vishay.com/docs/37484/lcd016n002bcfhet.pdf
 - alternativt: https://files.waveshare.com/upload/2/2e/LCD1602_RGB_Module.pdf
-- Raspberry Pi debug probe: https://www.raspberrypi.com/documentation/microcontrollers/debug-probe.html 
+- Raspberry Pi debug probe: https://www.raspberrypi.com/documentation/microcontrollers/debug-probe.html
+- https://www.halvorsen.blog/documents/technology/iot/pico/pico_i2c.php 
 
 
 ## Tilbake til samleside
