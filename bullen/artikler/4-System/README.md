@@ -27,10 +27,8 @@ I2C er en hardware nær kommunikasjonsstandard. LCD display mot en mikrokontroll
 ## Søvn
 Søvn er viktig for oss alle, også den lille Pico'en. Når den sover så bruker den mye mindre energi og batteriet varer lengre. Her er litt ekstramateriale om sleep.
 
-https://github.com/raspberrypi/pico-playground/blob/7b53edc86106ae8e0bbba5026372294608747cff/sleep/hello_dormant/hello_dormant.c#L27
-
-https://ghubcoder.github.io/posts/waking-the-pico-external-trigger/
-
+- https://github.com/raspberrypi/pico-playground/blob/7b53edc86106ae8e0bbba5026372294608747cff/sleep/hello_dormant/hello_dormant.c#L27
+- https://ghubcoder.github.io/posts/waking-the-pico-external-trigger/
 
 ## Kode
 Joda, det kommer også kode etter hvert.
