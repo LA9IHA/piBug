@@ -37,6 +37,7 @@ Joda, det kommer også kode etter hvert.
 - **Dokumentasjonssidene**: <https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B> Raspberry Pi sine egne dokumentasjonssider
 - **Cad**: <https://github.com/ncarandini/KiCad-RP-Pico> setup for Raspberry Pi Pico for KiCad
 - **Kurs om Raspberry Pico**: https://core-electronics.com.au/courses/raspberry-pi-pico-workshop/#1.1
+- **Software definert radio (SDR) med Raspberry Pico**: https://www.youtube.com/watch?v=lS1ZRMIYLjA
 
 ## Tilbake til samleside
 * <a href="https://github.com/LA9IHA/piBug/blob/main/bullen/">Om artikkelen</a>
